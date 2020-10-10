@@ -1,0 +1,96 @@
+[
+  {
+    'id': 172951011,
+    'steptype': 1,
+    'detail': '点击下面的链接到浏览器打开，点击允许☞点击下载元气众生录，注意安装的时候点击继续安装，id在135开头的才是新用户，必须走我的链接下载（应用商店没有数据），苹果的我这个链接下载不了',
+    'btnname': 'https://scapp.duoyi.com/app/yq/169/M2YQMobile105_1031_329016908.apk',
+    'sque': 1,
+    'jsonstr': '输入网址',
+    'Required': False,
+    'imgurl': '',
+    'detailImg': '',
+    'subtype': 0,
+    'usermsg': ''
+  },
+  {
+    'id': 172951012,
+    'steptype': 3,
+    'detail': '注册登录后沿着主线任务走剧情，试玩到25级（20分钟左右就能完成），注意只收这个图其它图不收谢谢',
+    'btnname': '',
+    'sque': 3,
+    'jsonstr': '收集截图',
+    'Required': False,
+    'imgurl': 'https://osszrbimg.zrb.net/taskpublish/20200910/1605722505540141064947.jpg',
+    'detailImg': '',
+    'subtype': 0,
+    'usermsg': ''
+  },
+  {
+    'id': 172951013,
+    'steptype': 8,
+    'detail': '注册手机号',
+    'btnname': '',
+    'sque': -4,
+    'jsonstr': '注册手机号',
+    'Required': False,
+    'imgurl': '',
+    'detailImg': '',
+    'subtype': 4,
+    'usermsg': ''
+  }
+]
+
+[
+  {
+    'id': 172951093,
+    'steptype': 1,
+    'detail': '打开链接用邮箱注册，注册成功后会收到激活邮件，去邮箱激活',
+    'btnname': 'https://tracking.surveycheck.com/aff_c?offer_id=8133&aff_id=11545&aff_sub=qutuokeji79',
+    'sque': -1,
+    'jsonstr': '打开/下载',
+    'Required': False,
+    'imgurl': '',
+    'detailImg': '',
+    'subtype': 1,
+    'usermsg': ''
+  },
+  {
+    'id': 172951094,
+    'steptype': 3,
+    'detail': '邮箱激活成功截图',
+    'btnname': '',
+    'sque': -2,
+    'jsonstr': '注册/快捷登录',
+    'Required': False,
+    'imgurl': 'https://osszrbimg.zrb.net/taskpublish/20200908/204435905122292411469.jpg',
+    'detailImg': '',
+    'subtype': -11,
+    'usermsg': ''
+  },
+  {
+    'id': 172951095,
+    'steptype': 3,
+    'detail': '随意完成一个有奖积分调查～点右上角三个杠～我的账户，查看历史截图 要显示有积分才行，无积分的调查不合格',
+    'btnname': '',
+    'sque': 3,
+    'jsonstr': '收集截图',
+    'Required': False,
+    'imgurl': 'https://osszrbimg.zrb.net/taskpublish/20200908/204435910142123258937.jpg',
+    'detailImg': '',
+    'subtype': 0,
+    'usermsg': ''
+  },
+  {
+    'id': 172951096,
+    'steptype': 8,
+    'detail': '注册手机号',
+    'btnname': '',
+    'sque': -4,
+    'jsonstr': '注册手机号',
+    'Required': False,
+    'imgurl': '',
+    'detailImg': '',
+    'subtype': 4,
+    'usermsg': ''
+  }
+]

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>任务列表</title>
+</head>
+<body>
+<div>
+    <ul>
+        {% for info in data%}
+        <li><a href="/task/detail/{{info[-1]}}/{{info[0]}}">{{info[1]}}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+</body>
+</html>

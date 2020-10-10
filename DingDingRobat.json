@@ -1,0 +1,4 @@
+{
+  "secret": "SEC0c3d5f868ed46c9189625db9ff8f21e59283fa69f8c6065ec0a168da6852f66f",
+  "webHook": "https://oapi.dingtalk.com/robot/send?access_token=8865e52be594df21e6757ab02a0e34a300e3feee45963bfb2630d2dffa99eb3a"
+}

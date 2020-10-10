@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{data[1]}}</title>
+</head>
+<body>
+<div class="content">
+    <div>
+        <h1>任务说明</h1>
+    </div>
+    <div>
+        <p>{{data[4].replace("&nbsp;", "")}}</p>
+    </div>
+    <div>
+        <h1>任务步骤</h1>
+    </div>
+    <div>
+        <ul>
+            {% for step in stepInfo %}
+            <li>
+                <p>{{(step["detail"]+step["btnname"]).replace("&nbsp;", "")}}</p>
+                <img src="{{step['imgurl']}}">
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+</body>
+</html>
